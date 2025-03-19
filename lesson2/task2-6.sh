@@ -1,0 +1,2 @@
+thisdate=$(date)
+echo $thisdate
